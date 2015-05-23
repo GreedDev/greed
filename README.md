@@ -60,7 +60,7 @@ Block Reward Schedule - Proof of Work Phase
 
 Proof of Work rejected after block 3500
 
-Total approx potential coins from POW: **100 GREED TOTAL**.
+Total approx potential coins from POW: **~124 GREED TOTAL**.
 
 Block Reward Schedule - Dynamic Proof of Stake Phase
 -------------------------------------------
