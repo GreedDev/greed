@@ -48,8 +48,17 @@ Block Reward Schedule - Proof of Work Phase
 **Block 2000 to 2090**
 
     1 GREED
+    
+**Block 2091 to 2101**
 
-Proof of Work rejected after block 1090
+    1 GREED
+    
+**Block 2102 to 3500**
+
+    .01 GREED
+    
+
+Proof of Work rejected after block 3500
 
 Total approx potential coins from POW: **100 GREED TOTAL**.
 
