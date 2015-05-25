@@ -56,9 +56,13 @@ Block Reward Schedule - Proof of Work Phase
 **Block 2102 to 3500**
 
     .01 GREED
+	
+**Block 3501 to 5999**
+
+    0 GREED
     
 
-Proof of Work rejected after block 3500
+Proof of Work rejected after block 5999
 
 Total approx potential coins from POW: **~124 GREED TOTAL**.
 
@@ -146,6 +150,6 @@ Block Reward Schedule - Dynamic Proof of Stake Phase
 
 Total Approx Total Coins at block 16,500: **~40,000,000 GREED TOTAL**
 
-After block 15,500 POS goes to **approx 10% yearly.**
+After block 16,500 POS goes to **approx 10% yearly.**
 
 See bitcointalk.org Greed thread for more info
