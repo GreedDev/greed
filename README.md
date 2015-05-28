@@ -57,99 +57,99 @@ Block Reward Schedule - Proof of Work Phase
 
     .01 GREED
 	
-**Block 3501 to 5999**
+**Block 3501 to 10999**
 
     0 GREED
     
 
-Proof of Work rejected after block 5999
+Proof of Work rejected after block 10999
 
 Total approx potential coins from POW: **~124 GREED TOTAL**.
 
 Block Reward Schedule - Dynamic Proof of Stake Phase
 -------------------------------------------
-**Block 2091 to 5999**
+**Block 2091 to 10999**
 
 	1% Yearly
 	
-**Block 6000 to 6200**
+**Block 11000 to 11200**
 
 	5,000 GREED
 	
 	+1,000,000 total
 
-**Block 6201 to 6999**
-
-	1% Yearly
-	
-**Block 7000 to 7200**
-
-	10,000 GREED
-	
-	+2,000,000 total
-	
-**Block 7201 to 7999**
-
-	1% Yearly
-	
-**Block 8000 to 8200**
-
-	15,000 GREED
-	
-	+3,000,000 total
-	
-**Block 8201 to 8999**
-
-	1% Yearly
-	
-**Block 9000 to 9200**
-
-	20,000 GREED
-	
-	+4,000,000 total
-	
-**lock 9201 to 9999**
-
-	1% Yearly
-	
-**Block 10000 to 10200**
-
-	25,000 GREED
-	
-	+5,000,000 total
-	
-**Block 10201 to 10999**
-
-	1% Yearly
-
-**Block 11000 to 11200**
-
-	30,000 GREED
-	
-	+6,000,000 total
-	
 **Block 11201 to 11999**
 
 	1% Yearly
 	
 **Block 12000 to 12200**
 
+	10,000 GREED
+	
+	+2,000,000 total
+	
+**Block 12201 to 12999**
+
+	1% Yearly
+	
+**Block 13000 to 13200**
+
+	15,000 GREED
+	
+	+3,000,000 total
+	
+**Block 13201 to 13999**
+
+	1% Yearly
+	
+**Block 14000 to 14200**
+
+	20,000 GREED
+	
+	+4,000,000 total
+	
+**lock 14201 to 14999**
+
+	1% Yearly
+	
+**Block 15000 to 15200**
+
+	25,000 GREED
+	
+	+5,000,000 total
+	
+**Block 15201 to 15999**
+
+	1% Yearly
+
+**Block 16000 to 16200**
+
+	30,000 GREED
+	
+	+6,000,000 total
+	
+**Block 16201 to 16999**
+
+	1% Yearly
+	
+**Block 17000 to 17200**
+
 	35,000 GREED
 	
 	+7,000,000 total
 	
-**Block 12201 to 14999**
+**Block 17201 to 19999**
 
 	1% Yearly
 	
-**Block 15000 to 16500**
+**Block 20000 to 21500**
 
 	8,000 GREED
 	
 	+12,000,000 total
 
-Total Approx Total Coins at block 16,500: **~40,000,000 GREED TOTAL**
+Total Approx Total Coins at block 21,500: **~40,000,000 GREED TOTAL**
 
-After block 16,500 POS goes to **approx 10% yearly.**
+After block 21,500 POS goes to **approx 10% yearly.**
 
 See bitcointalk.org Greed thread for more info
