@@ -47,11 +47,11 @@ unsigned int nTargetSpacing = 1 * 60; // Greed - 1 minute blocks
 static const int64_t nInterval = nTargetTimespan / nTargetSpacing;
 static const int64_t nDiffChangeTarget = 1;
 
-unsigned int nStakeMinAge = 8 * 60 * 60; // 8 hours
+unsigned int nStakeMinAge = 4 * 60 * 60; // 4 hours
 unsigned int nStakeMaxAge = 60 * 60 * 24 * 30;  // 30 days
 unsigned int nModifierInterval = 10 * 60; // Greed - time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 100;
+int nCoinbaseMaturity = 20;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
